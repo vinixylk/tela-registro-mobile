@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string name="app_name_slogan">AVICULTURA SILSAN</string>
+    <string name="text_email">EMAIL</string>
+    <string name="text_tel">TELEFONE</string>
+    <string name="text_name">NOME</string>
+    <string name="text_password">SENHA</string>
+    <string name="text_register">REGISTRE-SE</string>
+</resources>
